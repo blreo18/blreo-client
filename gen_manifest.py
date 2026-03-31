@@ -43,6 +43,6 @@ if os.path.exists(sprite_path):
 
 out = os.path.join(base, "manifest.json")
 with open(out, "w") as f:
-    json.dump(manifest, f, indent=2)
+    json.dump(manifest, f, indent=2, ensure_ascii=False)
 
 print(f"[OK] manifest.json: {len(manifest['files'])} files + {len(manifest.get('release_files', {}))} release files")
