@@ -5,7 +5,7 @@ base = os.path.dirname(os.path.abspath(__file__))
 manifest = {"files": {}}
 
 skip_dirs = {".git", "temp", "Screenshots", "PatchClient"}
-skip_files = {".gitignore", "manifest.json", "gen_manifest.py", "update.bat"}
+skip_files = {".gitignore", ".gitattributes", "manifest.json", "gen_manifest.py", "update.bat", "update_log.txt"}
 
 for root, dirs, files in os.walk(base):
     dirs[:] = [d for d in dirs if d not in skip_dirs]
