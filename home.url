@@ -1,0 +1,14 @@
+[DEFAULT]
+BASEURL=http://www.gameonline.co.kr/blreo_first.htm
+[DOC#5#6]
+BASEURL=http://www.gameonline.co.kr/home/blreo_menu.htm
+ORIGURL=home/blreo_menu.htm
+[DOC#5#7]
+BASEURL=http://www.gameonline.co.kr/home/blreo_image.htm
+ORIGURL=home/blreo_image.htm
+[DOC#5#8]
+BASEURL=http://www.gameonline.co.kr/home/blreo_body.asp
+ORIGURL=home/blreo_body.asp
+[InternetShortcut]
+URL=http://www.gameonline.co.kr/
+Modified=D0E50885EA77C10165

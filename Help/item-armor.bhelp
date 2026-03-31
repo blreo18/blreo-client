@@ -1,0 +1,411 @@
+◆◆◆◆◆ 인간족 방어구 아이템 ◆◆◆◆◆
+
+▶ 착용조건 / ♥:착용후 
+
+가죽 갑옷                            ♥Armor: 50 
+파린의 옷                            ♥Armor: 75 
+전설의 도복                          ♥Armor: 150 
+용문양 갑옷     ▶ Lev:10 Str:20     ♥Armor: 100 
+단단한 코퍼갑옷 ▶ Lev:20 Str:105    ♥Str:3, Armor: 150
+밴디드 메일     ▶ Lev:31 Str:170 Con:5 ♥Str:5, Con:2, Armor: 190 
+체인 메일  ▶ Lev:40 Str:230 Con:7   ♥Str:7, Con:3, Armor: 260 
+강철 갑옷  ▶ Lev:45 Str:265 Con:10  ♥Str:7, Con:3, Armor: 320 
+스케일 아머▶ Lev:50 Str:290 Con:15  ♥Str:10, Con:4, Armor: 380 
+여자 컴포지트 메일 ▶ Lev:55 Str:320 Con:15♥Str:13, Con:5, Armor: 435 
+플레이트 메일 ▶ Lev:60 Str:340 Con:20♥Str:15, Con:7, Armor: 480 
+펠스타 갑옷-소울셋 ▶ Lev:72 Str:460 Con:25♥Str:20, Con:10, Armor:540 
+여자 쇠미늘 갑옷 ▶ Lev:75 Str:405 Con:25 ♥Str:25, Armor: 605 
+상인복 - 요정의 씨앗 ▶ Cha:260      ♥Wis:15, Cha:18, Armor: 380 
+
+초기 로브   ▶ Lev:19 Int:140      ♥Int:2, Life:200, Armor:50 
+그레이 로브 ▶ Lev:30 Int:180      ♥Int:2. Wis:2, Life:600, Armor:90 
+헤진 쇠미늘 로브 ▶ Lev:38 int:230 wis:15 
+                                   ♥Int:3, Wis:3, Life:950, Armor:130 
+쇠미늘 로브 ▶Lev:45 int:250 wis:25♥Int:5, Wis:5, Life:1200 ,Armor:180 
+은빛 로브   ▶Lev:50 int:280 Wis:35♥Int:7, Wis:5, Life:1450 ,Armor:230 
+마이트 로브 ▶Lev:55 Int:310 Wis:40♥Int:8, Wis:10, Life:1780 ,Armor:280 
+비쥬로브 - 크리샤오르셋 ▶ Lev:65 Int:350 Wis:60 Man:77 
+                                 ♥Int:10, Wis:15, Life:2100 ,Armor:340 
+대법사의 로브 ▶ Int:370 Wis:85 Man: 85
+                                 ♥Int:13, Wis:20, Life:2400 ,Armor:420 
+백색의 로브 ▶Lev 110 Int 726    ♥Mana 1000 Armor 650
+
+상인모-요정의 씨앗 ▶ wis:20 Cha:250 ♥Wis:10, Cha:10 ,Armor: 100 
+모조 소가죽투구                      ♥Armor: 5 
+낡은 소가죽투구 ▶ Lev:15            ♥Armor: 10 
+소가죽투구      ▶ Lev:20            ♥Armor: 20 
+질긴 소가죽투구 ▶ Lev:25            ♥Armor: 50 
+베이직 매직햇   ▶ Lev:20 Int:90     ♥Wis:2, Life:100, Armor: 30 
+마블 햇    ▶ Lev:30 Int:140         ♥Wis:3, Life:200, Armor : 50 
+철갑투구   ▶ Lev:40 Str:210 Con:8   ♥Str:5, Con:2, Armor: 100 
+스펠헷     ▶ Lev:45 Int:230 Wis:15  ♥Wis:3, Life:400, Armor:85 
+원더햇     ▶ Lev:55 Int:300 Wis:20 Man:40♥Wis:10,Life:500, Armor:120
+비쥬햇-크리샤오르셋▶ Lev:68 Int:370 Wis:20 Man:55
+                                     ♥Wis:15, Life:850, Armor:150
+플레이트 투구  ▶ Lev:62 Str:340 Con:19♥Str:10, Con:5, Armor: 120 
+알렉산드 라이트 투구 ▶ Lev:72 Str:390 Con:23
+                                     ♥Str:15, Wis:8, Armor: 150 
+마노투구   ▶ Str:445 Con:26         ♥Str:18, Wis:12, Armor: 240
+시드왕 헬멧 ▶ Str:470 Con:30        ♥Str:20, Con:15, Armor: 280 
+
+버클러                               ♥Armor: 100 
+낡은 해골 방패 ▶ Cha:95             ♥Wis:2, Cha:2, Armor: 200
+해골 방패      ▶ Cha:140            ♥Wis:5, Cha:5, Armor:390 
+단단한 해골 방패 ▶ Cha:210          ♥Wis:7, Cha:5, Armor:420
+상인방패-요정의 씨앗 ▶ Cha:280      ♥Wis:20, Cha:20, Armor:550 
+모조 천상의 방패 ▶ Lev:15 Str:80    ♥Armor: 120 
+천상의 방패      ▶ Lev:24 Str:125   ♥Str:2, Armor: 140 
+모조 환영의 방패 ▶ Lev:31 Str:170   ♥Str:3, Armor: 180 
+환영의 방패 ▶ Lev:41 Str:225 Con:10 ♥Str:5, Con:2, Armor:220 
+강철 방패   ▶ Lev:51 Str:255 Con:15 ♥Str:7, Con:3, Armor:250 
+호플론      ▶ Lev:61 Str:310 Con:20 ♥Str:10, Con:5, Armor:290 
+타즈        ▶ Lev:72 Str:365 Con:25 ♥Str:12, Con:7, Armor:340 
+글로리 방패 ▶ Str:420 Con:30        ♥Str:15, Con:10, Armor:430 
+
+
+ ◆◆◆◆◆ 오크족 방어구 아이템 ◆◆◆◆◆
+
+▶ 착용조건 / ♥:착용후   
+
+레닌의 옷                            ♥Armor: 110
+스콜러 갑옷 ▶ Lev:15 Str:90         ♥Armor: 160
+밴디드 메일 ▶ Lev:32 Str:180 Con:5  ♥Str:5, Con:2, Armor: 195
+체인 메일   ▶ Lev:41 Str:240 Con:8  ♥Str:7, Con:4, Armor: 280
+컴포지트 메일▶Lev:53 Str:310 Con:17 ♥Str:10, Con:4, Armor: 390
+스플린트 메일▶Lev:61 Str:345 Con:21 ♥Str:15, Con:8, Armor: 460
+스톰갑옷-푸카셋▶Lev:70 Str:385 Con:25 ♥Str:20,Con:10, Armor:520
+필드 아머 ▶ Str:410 Con:30          ♥Str:25, Armor:560
+초기로브  ▶ Lev:20 Int:110          ♥Wis:1, Armor: 20
+
+상인모자-요정의 씨앗 ▶ Wis:20 Cha:250♥Wis:10, Cha:10, Armor:100
+모조 소가죽 투구                      ♥Armor: 5
+낡은 소가죽투구 ▶ Lev:15             ♥Armor: 10
+소가죽투구 ▶ Lev:20                  ♥Armor: 20
+헬름       ▶ Lev:25                  ♥Armor: 50
+강철투구   ▶ Lev:39Str:195 Con:8     ♥Str:4, Con:2, Armor: 75
+그레이트헬름▶ Lev:50 Str:255 Con:14  ♥Str:7, Con:3, Armor: 125
+스톰투구-푸카셋▶ Lev:61 Str:345 Con:20♥Str:10, Con:5, Armor: 140
+크로즈 헬멧 ▶ Lev:73 Str:380 Con:25  ♥Str:15, Con:10, Armor: 170
+아멧       ▶ Str:450 Con:30          ♥Str:20, Armor: 245
+
+버클러                                ♥Armor: 80
+쿠퍼 방패 ▶ Lev:13 Str:75            ♥Armor: 110
+전사의 방패▶Lev:22 Str:110           ♥Armor: 130
+보호 방패 ▶ Lev:30 Str:170           ♥Str:3, Armor: 160
+라지 실드 ▶ Lev:35 Str:200           ♥Armor : 195
+그랜드 실드▶ Lev:43 Str:240 Con:10   ♥Str:5, Con:2, Armor: 265
+강철 방패 ▶ Lev:55 Str:280 Con:15    ♥Str:7, Con:5, Armor: 270
+배틀 실드▶ Lev:65 Str:330 Con:25     ♥Str:10, Con:7, Armor: 310
+상인방패-요정의씨앗▶ Cha:280         ♥Wis:20, Cha:18, Armor: 550
+상인복-요정의씨앗▶ Cha:260           ♥Wis:15, Cha:18, Armor: 380
+페도라  ▶ Cha:180                    ♥Wis:6, Cha:8, Armor:75
+상인용 가먼트 ▶Cha:165               ♥Wis:10, Cha:20, Armor:260
+
+
+ ◆◆◆◆◆ 엘프족 방어구 아이템 ◆◆◆◆◆
+
+▶ 착용조건 / ♥:착용후    
+
+라이프 슬립                           ♥Armor: 130
+퍼플 플라워 슬립 ▶Lev:20             ♥Dex:2, Con:1, Armor:170
+릴리 갑옷 ▶ Lev:30 Dex:165 Con:5     ♥Dex:3, Con:2 Armor: 65
+상인복-요정의씨앗▶ Cha:260           ♥Wis:15, Cha:18, Armor: 380
+브라이트 갑옷▶ Lev:40 Dex:215 Con:8  ♥Dex:5, Con:3, Armor:100
+엘리멘탈 갑옷▶ Lev:51 Dex:270 Con:13 ♥Dex:7, Con:4, Armor:130
+마이티 갑옷 ▶ Lev:62 Dex:320 Con:20  ♥Dex:10, Con:10, Armor:290
+비취슬립-신의입김▶Lev:68 Dex:370 Con:25♥Dex:15, Con:15,Armor:360
+님프 갑옷 ▶ Lev:81 Dex:420 Con:30    ♥Dex:20, Con:20, Armor:420
+
+모조 물소 가죽투구                    ♥Armor: 5
+낡은 물소 가죽투구▶Lev:15            ♥Con:1, Armor: 30
+물소 가죽투구  ▶ Lev:20              ♥Dex:2, Con:1, Armor: 50
+헬 름       ▶ Lev:30                 ♥Dex:3, Con:2, Armor: 25
+라이트 밴드 ▶ Lev:41 Dex:215 Con:8   ♥Dex:5, Con:3, Armor: 80
+리파인 밴드 ▶ Lev:52 Dex:260 Con:15  ♥Dex:7, Con:5, Armor: 120
+타이디 밴드 ▶ Lev:63 Dex:320 Con:20  ♥Dex:10, Con:10, Armor: 120
+비취맨드-신의입김 ▶ Lev:72 Dex:365 Con:25
+                                      ♥Dex:15, Con:15, Armor: 150
+노블 밴드  ▶ Lev:78 Dex:420 con:25   ♥Dex:20, Wis:20, Armor: 200
+상인 밴드-요정의씨앗▶ Wis:20 Cha:250 ♥Wis:10, Cha:10, Armor:100
+버클러                                ♥Armor: 100
+상인방패-요정의씨앗 ▶ Cha:280        ♥Wis:20, Cha:20, Armor:550
+라운드 실드        ▶ Lev:25          ♥Armor: 140
+단단한 라운드 실드 ▶ Lev:35          ♥Dex:3, Con:3, Armor:180
+크리스탈 실드      ▶ Lev:45          ♥Dex:5, Con:5, Armor:210
+단단한 크리스탈 실드▶Lev:55          ♥Dex:7, Con:7, Armor:250
+카이트 실드        ▶ Lev:61          ♥Dex:10, Con:10, Armor:280
+단단한 카이트 실드 ▶ Lev:72          ♥Dex:15, Con:15, Armor:330
+
+
+ ◆◆◆◆◆ 드래곤족 방어구 아이템 ◆◆◆◆◆
+
+▶ 착용조건 / ♥:착용후  
+
+여의주 1제 ▶Sta 6200   ♥Dex 1 Con 2 Armor 190
+여의주 2제 ▶Sta 7200   ♥Dex 2 Con 3 Armor 260
+여의주 3제 ▶Sta 9200   ♥Dex 3 Con 5 Armor 370
+여의주 4제 ▶Sta 10200  ♥Dex 4 Con 6 Armor 420
+여의주 5제 ▶Sta 12200  ♥Dex 5 Con 8 Armor 590
+여의주 6제 ▶Sta 16000  ♥Dex 7 Con 10 Armor 740
+여의주 7제 ▶Sta 19500  ♥Dex 8 Con 15 Armor 820
+여의주 8제 ▶Sta 24500  ♥Dex 13 Con 20 Armor 1150
+비월 1갑                       ♥Armor: 60
+비월 2갑          ▶Lev:30     ♥Dex:5, Con:7, Armor:130
+비월 3갑          ▶Lev:45     ♥Dex:6, Con:8, Armor:180
+비월 4갑          ▶Lev:60     ♥Dex:8, Con:10, Armor:270
+비월 5갑          ▶Lev:70     ♥Dex:12, Con:15, Armor:320
+비월 6갑          ▶Lev:80     ♥Dex:15, Con:20, Armor:370
+각반 1패                       ♥Dex:2, Con:3, Armor:110
+각반 2패          ▶Sta:3500   ♥Dex:3, Con:5, Armor:190
+각반 3패          ▶Sta:8500   ♥Dex:5, Con:7, Armor:260
+각반 4패          ▶Sta:11500  ♥Dex:5, Con:10, Armor:310
+각반 5패          ▶Sta:14500  ♥Dex:10, Con:15, Armor:390
+
+
+ ◆◆◆◆◆ 하프엘프족 방어구 아이템 ◆◆◆◆◆
+▶ 착용조건 / ♥:착용후
+
+크리스마스옷 ▶Dex:100 Con:5 ♥Armor: 95
+헌터 갑옷    ▶Dex:105 Con:5 ♥Dex: 5, Armor: 100
+로지아 갑옷  ▶Dex:150 Con:8 ♥Dex:8, Armor:200
+티로즈 갑옷  ▶Dex:250 Con:10♥Dex: 10, Con:3, Armor: 300
+디이스 갑옷  ▶Dex:300 Con:15♥Dex: 13, Con:5, Armor: 400
+라파엘 감옷  ▶Dex:450 Con:20♥Dex: 17, Con:8, Armor: 600
+윈드러스 갑옷▶Dex:500 Con:17♥Dex: 20, Con:10, Armor: 700
+샤키 갑옷    ▶Dex:600 Con:24♥Dex: 25, Con:15, Armor: 800
+크리스마스모자▶Dex:105      ♥Armor: 75
+비드스트링   ▶Dex:40        ♥Armor: 80
+작은 왕관    ▶Dex:60        ♥Armor: 100
+큐티헤어넷   ▶Dex:100       ♥Armor: 120
+디어스트링   ▶Dex:120       ♥Armor: 140
+더블 헤어넷  ▶Dex:120       ♥Armor: 140
+플라워핀     ▶Dex:200       ♥Armor: 180
+솜털밴드     ▶Dex:220       ♥Armor: 200
+후드         ▶Dex:250       ♥Armor: 220
+러블리 스트링▶Dex:275       ♥Armor: 240
+밍크 밴드    ▶Dex:300       ♥Armor: 260
+핑크 밴드    ▶Dex:325       ♥Armor: 280
+리본 밴드    ▶Dex:350       ♥Armor: 300
+라운드 핀    ▶Dex:400       ♥Armor: 320
+화려한 왕관  ▶Dex:450       ♥Armor: 360
+바이올렛 밴드▶Dex:500       ♥Armor: 380 
+
+
+
+
+ ◆◆◆◆◆ 모든종족 공통 방어구 아이템 ◆◆◆◆◆
+
+▶ 착용조건 / ♥:착용후 
+
+낡은 소가죽 장갑                 ♥Armor: 30
+소가죽 장갑                      ♥Life:40, Armor: 80
+하급 기술 장갑 ▶Cha:150         ♥Wis:10, Cha:10, Armor: 210
+기술 장갑      ▶Cha:210         ♥Wis:20, Cha:20, Armor: 330
+청동 글로브    ▶Lev:25          ♥Armor: 120
+단철 글로브    ▶Lev:35          ♥Armor: 170
+강철 글로브    ▶Lev:45          ♥Armor: 230
+체인 글로브    ▶Lev:55          ♥Armor: 280
+플래이트 글로브▶Lev:65          ♥Armor: 315
+크로스어모트 장갑▶Int:260       ♥Int: 8, Armor: 90
+린저 장갑      ▶Dex:260         ♥Dex:8, Armor: 155
+로스트 델타 장갑▶Str:260        ♥Str:8, Armor: 155
+스트린드 장갑  ▶Con:260         ♥Con:8, Armor: 155
+루버 건들렛    ▶Int:320         ♥Int:15, Armor: 210
+맨더린 건들렛  ▶Dex:320         ♥Dex:15, Armor: 270
+퍼플 건들렛    ▶Str:320         ♥Str:15, Armor: 270
+애저 건들렛    ▶Con:320         ♥Con:15, Armor: 270
+블루문 클로브  ▶Lev:75          ♥Life: 450, Armor: 360 
+
+낡은 소가죽 부츠                 ♥Sta: 250
+소가죽 부츠                      ♥Sta: 500
+청동 부츠      ▶Lev:30          ♥Armor: 50
+단철 부츠      ▶Lev:40          ♥Armor: 120
+강철 부츠      ▶Lev:50          ♥Armor: 180
+체인 부츠      ▶Lev:60          ♥Armor: 230
+플이트움 부츠  ▶Lev:70          ♥Armor: 280
+루버 부츠      ▶Int:310         ♥Int:3, Armor: 170
+크래프트 부츠  ▶Cha:290         ♥Cha:10, Armor: 225
+맨더린 부츠    ▶Dex:310         ♥Dex:10, Armor: 210
+퍼플 부츠      ▶Str:320         ♥Str:10, Armor: 210
+패딩 부츠      ▶Con:310         ♥Con:8, Armor: 210
+블루문 부츠    ▶Lev:80          ♥Life:550, Armor: 310
+소가죽벨트                       ♥Armor: 50
+라이트 벨트                      ♥Armor: 90
+헤비 벨트                        ♥Armor: 130
+낡은 상인조합 밸트▶Cha:110      ♥Cha:10, Armor: 150
+상인조합 밸트  ▶Cha:270         ♥Cha:20, Armor: 210
+낡은 블랙오라 거들▶Str:150      ♥Str:8, Con:2, Armor:150
+블랙오라 거들  ▶Str:340         ♥Str:12, Con:5, Armor: 210
+낡은 마리드거들▶Lev:21          ♥Con:8, Dex:8, Armor: 150
+마리드 거들    ▶Lev:65          ♥Con:13, Dex:13, Armor: 210
+낡은 레드 큐빅거들▶Lev:20       ♥Int:10, Wis:3, Armor: 150
+레드 큐빅거들  ▶Lev:65          ♥Int:12, Wis:5, Armor: 210
+
+☆★ 구 템 ★☆
+
+◆◆◆◆◆ 인간족 방어구 아이템 ◆◆◆◆◆
+
+▶ 착용조건 / ♥:착용후 
+
+황동 갑옷         ▶Lev 31 Str 50                ♥Armor 200 
+헤진 사슬갑옷     ▶Lev 33 Str 90                ♥Con 5 Armor 160 
+사슬 갑옷         ▶Lev 40 Str 100               ♥Con 5 Armor 200 
+녹슨 사슬갑옷     ▶Lev 40 Str 120               ♥Con 7 Armor 250 
+단단한 사슬갑옷   ▶Lev 45 Str 120               ♥Con 10 Armor 290 
+청동 갑옷         ▶Lev 42 Str 120 Dex 15        ♥Armor 350
+여자 황동 갑옷    ▶Lev 50 Str 120 Con 20        ♥Con 10 Armor 300
+녹슨 은갑옷       ▶Lev 50 Str 170               ♥Armor 380 
+낡은 은갑옷       ▶Lev 50 Str 210 Con 20 Cha 10 ♥Armor 415 
+은 갑옷           ▶Lev 60 Str 250 Con 20 Cha 20 ♥Armor 450 
+단단한 은갑옷     ▶Lev 60 Str 250 Con 20 Cha 10 ♥Armor 500 
+여자 드래곤 갑옷  ▶Lev 60 Str 250 Cha 10        ♥Armor 500 
+
+로브                 ▶Lev 35 Int 120               ♥Int 10 Armor 10 
+베이직 로브          ▶Int 150                      ♥Int 5 Armor 25 
+헤진 사슬 로브       ▶Lev 40 Int 100 Wis 30        ♥Int 15 Armor 60 
+사슬 로브            ▶Lev 50 Int 200 Wis 50        ♥Int 30 Armor 100
+낡은 사슬로브        ▶Lev 50 Int 200 Wis 50        ♥Int 35 Armor 150 
+신비한 사슬로브      ▶Lev 55 Int 210 Wis 55        ♥Int 35 Wis 5 Armor 180 
+월광로브 - 아스트로셋▶Lev 65 Int 240 Wis 60 Man 65 
+                                 ♥Int 40 Wis 10 Armor 350 
+베르그 로브          ▶Int 430 Man 80               ♥Int 50 Wis 15 Armor 410 
+
+모조 가죽투구                                       ♥Armor 5 
+낡은 가죽투구     ▶Lev 15 Str 60 Wis 10            ♥Armor 10 
+질긴 가죽투구     ▶Lev 20 Str 80 Wis 10            ♥Int 7 Armor 15
+가죽투구          ▶Lev 25 Str 100 Wis 10           ♥Int 10 Armor 20 
+매직햇            ▶Lev 20 Str 80 Dex 30 Man 1      ♥Int 10 Armor 15
+철기 투구         ▶Lev 40 Str 150 Con 50           ♥Armor 80
+샤오르 모자       ▶Lev 45 Int 240                  ♥Int 13 Wis 2 Armor 20 
+전사 투구         ▶Lev 60 Str 240 Dex 10           ♥Con 10 Armor 100 
+골드 투구         ▶Lev 70 Str 300 Dex 50 Con 70    ♥Int 20 Armor 150
+파툼 투구         ▶Lev 80 Str 460 Man 60           ♥Str 15 Wis 15 Armor 230
+부라우니 헬멧     ▶Lev 90 Str 480 Man 80           ♥Str 30 Armor 280 
+
+나무방패                              ♥Armor: 100 
+스켈레톤 상인 방 패 ▶Cha 190          ♥Wis:2, Cha:2, Armor: 200
+가짜 전사의 방패    ▶Lev 30 Str 100 Dex 10  ♥Armor 130 
+전사의 방패         ▶Lev 30 Str 110 Dex 10  ♥Armor 150 
+무기력한 전사의 방패▶Lev 30 Str 110 Dex 10  ♥Armor 170 
+진정한 전사의 방패  ▶Lev 35 Str 130 Dex 15  ♥Str 5 Armor 200
+철기 방패           ▶Lev 50 Str 230 Con 20  ♥Armor 250 
+올리비에 방패       ▶Lev 60 Str 290         ♥Str 15 Int -10 Armor 290 
+토르 방패           ▶Lev 70 Str 350         ♥Str 18 Int -15 Armor 340 
+닉스 실드           ▶Str 520 Man 80         ♥Str 20 Armor 450 
+
+
+ ◆◆◆◆◆ 오크족 방어구 아이템 ◆◆◆◆◆
+
+▶ 착용조건 / ♥:착용후   
+
+빌포르 갑옷     ▶Lev 15 Str 15                 ♥Str 5 Armor 170
+헤진 사슬 갑옷  ▶Lev 37 Str 100 Int 10 Wis 10 Dex 20
+                          ♥Armor 260
+사슬 갑옷       ▶Lev 40 Str 110 Int 10 Wis 10 Dex 35
+                          ♥Armor 300
+헤진 사슬 갑옷  ▶Lev 37 Str 100 Int 10 Wis 10 Dex 35
+                          ♥Armor 350
+단단한 사슬 갑옷▶Lev 37 Str 100 Int 10 Wis 10 Dex 35
+                          ♥Str 5 Dex 5 Armor 370
+오크 황금 갑옷  ▶Lev 60 Str 200 Dex 50 Cha 20  ♥Int 20 Con 10 Armor 450
+님로드 갑옷     ▶Lev 85 Str 415 Int 20         ♥Str 30 Int 10 Armor 520
+초기로브                                        ♥Armor 20
+
+모조 가죽 투구                                 ♥Armor 18
+가죽 투구                                      ♥Armor 25
+낡은 가죽 투구                                 ♥Armor 40
+질긴 가죽 투구                                 ♥Str 10 Armor 50
+오크 외뿔 투구  ▶Lev 40 Str 120 Dex 7         ♥Str 5 Dex 2 Armor 75
+오크 철갑 투구  ▶Lev 50 Str 150 Dex 10        ♥Con 5 Armor 100
+오크 전사 투구  ▶Lev 60 Str 175 Dex 15 Con 40 ♥Int 10 Armor 125
+오크 골드 투구  ▶Lev 70 Str 200 Dex 20 Con 80 ♥Int 20 Armor 150
+다이몬 헬멧     ▶Str 500 Con 20 Man 80        ♥Str 30 Con 10 Armor 250
+
+나무 방패                                ♥Armor 110
+레토 방패    ▶Lev 10             ♥Str 3 Armor 125
+라운드 방패  ▶Lev 20            ♥Str 5 Armor 140
+노토스 방패  ▶Lev 30            ♥Str 8 Armor 155
+비서스 실드  ▶Lev 35 Str 160           ♥Str 10 Wis 3 Armor 160
+미디벌 방패  ▶Lev 40                ♥Str 10 Armor 170
+오크 철 방패 ▶Lev 55 Str 200 Wis 10     ♥Str 10 Armor 200
+마이티 실드  ▶Lev 65 Str 240 Con 15     ♥Str 15 Armor 250
+
+
+ ◆◆◆◆◆ 엘프족 방어구 아이템 ◆◆◆◆◆
+
+▶ 착용조건 / ♥:착용후    
+
+모닝듀 슬립     ▶Dex 5                  ♥Armor 30
+퍼플 페더 슬립  ▶Dex 150                ♥Sta 500 Armor 160
+페르낭 슬립     ▶Lev 15 Dex 65          ♥Str 5 Dex 5 Armor 45
+미스티 갑옷     ▶Lev 30 Str 10 Dex 80   ♥Str 5 Dex 10 Armor 65
+사이닝 갑옷     ▶Lev 40 Str 10 Dex 130  ♥Str 5 Dex 17 Armor 100
+마운팅 갑옷     ▶Lev 50 Str 30 Dex 160  ♥Dex 35 Armor 130
+닉시 갑옷       ▶Lev 85 Dex 280 Con 30  ♥Dex 35 Con 10 Armor 450
+루시더스 갑옷   ▶Wis 20 Dex 350 Con 20  ♥Dex 35 Wis 15 Con 8 Armor 290
+
+사슴 가죽투구   ▶Lev 20 Con 60          ♥Dex 5 Armor 10
+궁수 투구       ▶Lev 30 Dex 90          ♥Dex 15 Armor 25
+그레이스 밴드   ▶Lev 40 Dex 150         ♥Dex 17 Wis 5 Armor 50
+딜라이 밴드     ▶Lev 50 Dex 210         ♥Dex 18 Wis 5 Armor 70
+루센트 밴드     ▶Dex 370 Man 17         ♥Dex 22 Wis 8 Armor 110
+디럭스 밴드     ▶Dex 480 Man 80         ♥Dex 25 Wis 10 Armor 130
+
+나무 방패                         ♥Armor 18
+라이언 방패     ▶Lev 25          ♥Armor 60
+얼음 방패       ▶Lev 35          ♥Armor 120
+유성 방패       ▶Lev 45          ♥Armor 150
+
+
+◆◆◆◆◆ 드래곤족 방어구 아이템 ◆◆◆◆◆
+
+▶ 착용조건 / ♥:착용후  
+
+드래곤 여의주 1제 ▶Sta:6200    ♥Dex:1, Con:2, Armor:120
+드래곤 여의주 2제 ▶Sta:7200    ♥Dex:2, Con:3, Armor:160
+드래곤 여의주 3제 ▶Sta:9200    ♥Dex:3, Con,5 Armor: 210
+드래곤 여의주 4제 ▶Sta:10200   ♥Dex:4, Con:6, Armor:260
+드래곤 여의주 5제 ▶Sta:12200   ♥Dex:5, Con:8, Armor:310
+천몽안 1심          ▶Lev 25    ♥Con 3 Armor 10
+천몽안 2심          ▶Lev 50    ♥Con 5 Armor 45
+천몽안 3심          ▶Lev 70    ♥Con 8 Armor 110
+보호 각반           ▶Sta 3500  ♥Armor 70
+방어 각반           ▶Sta 3500  ♥Armor 100
+수호 각반           ▶Sta 8500  ♥Armor 140
+방호 각반           ▶Sta 10500 ♥Armor 190
+수비 각반           ▶Sta 12500 ♥Armor 250
+
+◆◆◆◆◆ 모든 종족 공통 방어구 아이템 ◆◆◆◆◆
+
+가죽 장갑                        ♥Str 5 Cha 5
+드래곤 스킨 장갑 ▶Cha 200       ♥Cha 45 Mana 10 Armor 50
+동 글로브 ▶Lev 25               ♥Life 30 Armor 50
+철 글로브 ▶Lev 35 Str 135       ♥Dex 50 Life 50 Armor 20
+은 글로브 ▶Lev 45 Str 170       ♥Life 80 Armor 130
+금 글로브 ▶Lev 55 Str 200       ♥Life 200 Armor 190
+플래티움 글로브 ▶Lev 65 Str 230 ♥Life 170 Armor 260
+하이드 장갑   ▶Lev 20           ♥Dex 5 Mana 30 Armor 5
+포레스트 장갑 ▶Lev 30           ♥Dex 10 Mana 70 Armor 10
+오션 장갑     ▶Lev 40           ♥Dex 15 Mana 200 Armor 20
+스타폴 장갑   ▶Lev 50           ♥Dex 20 Mana 300 Armor 40
+선셋 장갑     ▶Lev 60           ♥Dex 25 Mana 450 Armor 80
+슬림 건틀렛   ▶Lev 60 Dex 200   ♥Dex 50
+
+가죽 부츠 ▶Lev 20               ♥Cha 7
+동 부츠   ▶Lev 30               ♥Cha 5 Armor 20
+철 부츠   ▶Lev 40               ♥Sta 100 Armor 35
+은 부츠   ▶Lev 50               ♥Sta 150 Armor 50
+금 부츠   ▶Lev 60               ♥Sta 300 Armor 65
+플래티움 부츠 ▶Lev 70           ♥Sta 450 Armor 80
+파인로드 부츠 ▶Lev 30 Dex 100   ♥Dex 10 Mana 200
+로드맨쉽 부츠 ▶Lev 40 Dex 140   ♥Dex 30 Mana 300
+스타폴 부츠   ▶Lev 50 Dex 180   ♥Dex 50 Mana 400
+가죽 벨트     ▶Lev 20           ♥Mana 200 Dex 5 Armor 10
+푸롬 벨트     ▶Lev 30           ♥Mana 300 Dex 10 Armor 20
+노르만 벨트   ▶Lev 40           ♥Mana 600 Dex 20 Armor 40
+길드쉽 샤시   ▶Lev 25 Cha 150   ♥Cha 15 Life 200
+썬라잇 거들   ▶Lev 25           ♥Dex 10 Life 300
+문라잇 거들   ▶Lev 25           ♥Life 300 Armor 30
+루비 거들     ▶Lev 55           ♥Life 1000 Armor 30
+
+<A HREF="item.bhelp","**돌아가기**"> 

@@ -1,0 +1,9 @@
+# 대용량 파일 (Releases로 관리)
+Sprite.NZspr.Pool
+
+# 임시/로컬 파일
+temp/
+Screenshots/
+*.obj
+*.res
+*.log
