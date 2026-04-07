@@ -1,7 +1,7 @@
 {
   "files": {
     "Blreo.exe": "6ad086d2954a474c0c08368799d038217f5bcba420090217a6cc72fcfc0e7388",
-    "Blreo_읽어주세요.txt": "5b507e2129ce2ed937c718be69df447c0bcfbce993c1495b34abd10fb04816e2",
+    "Blreo_읽어주세요.txt": "37d10d0f1e5394c14891e7bced405658264149de6a00ba9e89b6db41ae9dc1ee",
     "ddraw.dll": "85e0f7d530dfda134793a57cb3e76b0287dcc96892ee57162dd68f47283b03a9",
     "ddraw.ini": "07c9862b6b53cbdebf849b1c6150173b0cce8f5f9dd3bb14312ac28aa8566b98",
     "home.url": "27320b46783acad6d84e89a93afa04884ad1894a03f1ddaad188d20e632a126a",
@@ -28,7 +28,7 @@
     "Help/BaseResource.NZspr": "d79e094468a783d9f47cb520d721d7c7f8893e7e95719401965281792d6f6b15",
     "Help/basicharacter.BHelp": "71070468e2f18a34296d9e9ade24e6f49afd132a90dc8568430b5bddcbebbe02",
     "Help/BasicUse.Bhelp": "326e66a7f081158b9e15d8aab8d0542d435b83b8bf28ed105e159c5a5db8c50d",
-    "Help/Blreo_읽어주세요.txt": "5b507e2129ce2ed937c718be69df447c0bcfbce993c1495b34abd10fb04816e2",
+    "Help/Blreo_읽어주세요.txt": "37d10d0f1e5394c14891e7bced405658264149de6a00ba9e89b6db41ae9dc1ee",
     "Help/characterinfo.BHelp": "f8295e9d034e0a2d9400ed7e679466d73be5789d49dda7890bb715e017b5c450",
     "Help/economysystem.bhelp": "374098d795a4c39c77506f290a233012dc5d3f545c426855cdd6510e3605789e",
     "Help/Error.Bhelp": "9ec8f146825483e1ad2287362a15ebc1c556aacab5f164f9ac4ec77b22853db4",
