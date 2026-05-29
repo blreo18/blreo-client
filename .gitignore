@@ -8,3 +8,6 @@ Screenshots/
 *.res
 *.log
 update.bat
+
+# 개인용 빌드 도구
+gen_manifest.py
