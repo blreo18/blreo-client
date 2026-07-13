@@ -8,6 +8,8 @@ Screenshots/
 *.res
 *.log
 update.bat
+Update_Sprite.bat
+__pycache__/
 
 # 개인용 빌드 도구
 gen_manifest.py
