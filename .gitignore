@@ -9,7 +9,10 @@ Screenshots/
 *.log
 update.bat
 Update_Sprite.bat
+Test서버 접속기_admin.exe
+Test서버 접속기_admin_test.exe
 __pycache__/
+
 
 # 개인용 빌드 도구
 gen_manifest.py
