@@ -9,7 +9,9 @@
     "LegendOfMagic.ini": "41ce163c830ba9adeb051c82376400f98011c00e97ac1e9d4070661139b77673",
     "ShortKeyV2.Dat": "00f45cd013d6c5e4ca6dfdfa9b2204c9263d273d2b87b9776c13aa011e7476a0",
     "TargaSpritePool.tpol": "8e49fffae2ccaa9fe31ac9243a392c215ffc075da5a7d3cc72ff82f15b8d5d6b",
-    "Test서버 접속기.exe": "13164fac930ea49287493c118bc3bb22b6b204055ec4427f68165d3ce85fbd26",
+    "Test서버 접속기.exe": "10a1ea537a6f600fc4ad07bdec98bd1fdfea4e9f6686b281a646e5a85a049e5e",
+    "Test서버 접속기_admin.exe": "b71a2bf43afddce76e262654a83f583b11ae458503a2d6c85ce81ac34f82addd",
+    "Test서버 접속기_admin_test.exe": "12e2c51c7cfde52cae97257ef96755dd273d15fecba0335a0b43f65503bd3846",
     "헬프.xlsx": "12c17bf806e10a5790653c3c6c8b3cca4169672b0bd85cd42dfebc11fdd5dc80",
     "dat/BackgroundAnimationSpriteMotherRecord.dat": "a35365fa3222a623e7f566ea84a7e83c5099f6837b0e667fc320e3d20e406954",
     "dat/BackgroundSpriteMotherRecordV3.dat": "9705759cb75d3f195686188b95c8a2abb75399125d55acd5c37b811a18c02088",
@@ -17,7 +19,7 @@
     "dat/FileT1.rft": "45cf91c31b89647aef1033b629ebb12b966a25324d37c05eb930ce012c76c670",
     "dat/GunBallMotherRecord.Dat": "c8e8fbf04614f6461edff2fec03ca685cb3680cb7ca0c62d66391564a622aa47",
     "dat/ItemMakeMotherRecord.Dat": "9dd5fba6b65158c96e3c1c0b08ee84d4631008143837b15052fa4898bc2f424c",
-    "dat/ItemMotherRecord.Dat": "3852c3156d3a1eff3fa00cce239153a44fb215e67d271913055940dd49964780",
+    "dat/ItemMotherRecord.Dat": "965b0de00d4e7b6eaf641e2ee96af0ba8764edebc8e2798373dccd119e26b34b",
     "dat/MonsterMotherRecord.dat": "bb76cbdd85d6cacd6c0b105952c11af007b60f16f715a475b61e61af84179c1e",
     "dat/NPCMotherRecord.dat": "3f019562ec9c42473cf3c8f4e3e2c5fa1780b1cf9ed6234b03cf437c6397c88f",
     "dat/PlayerClassRecord.Dat": "d857762dbbada5584ed0325d31fa88dfc0a4f1cf91de2e9b4b897c820efde16d",
@@ -293,7 +295,7 @@
   },
   "release_files": {
     "Sprite.NZspr.Pool": {
-      "sha256": "a8746b09aa6eb1612c4a6a3e138942f7c89a0b467ec5770492edaba2205be260",
+      "sha256": "f3abee7bcde65d89d3fa90ff08d93d0ec02c04c98bdd5a616ea8d722408ea91f",
       "url": "https://github.com/blreo18/blreo-client/releases/download/1.0/Sprite.NZspr.Pool"
     }
   }
