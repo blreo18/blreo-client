@@ -5,7 +5,7 @@
     "ddraw.dll": "85e0f7d530dfda134793a57cb3e76b0287dcc96892ee57162dd68f47283b03a9",
     "ddraw.ini": "77b7c809cd0e2bb74c4a23115b3bf303e0842875109ac77d19b8132203f22f69",
     "home.url": "1d71c7881524c3124fd351313c43e4f9f8d7519e0a60f509542ef99518a202d3",
-    "LegendOfMagic.exe": "9f1065ff1001c7da365637709082c14637e7c8be883de823995957dfcc8b00a8",
+    "LegendOfMagic.exe": "10b464c028b1d9722be8cce3d2581c91b4a870bcef0e127d1344dd94ac2e9185",
     "LegendOfMagic.ini": "41ce163c830ba9adeb051c82376400f98011c00e97ac1e9d4070661139b77673",
     "ShortKeyV2.Dat": "00f45cd013d6c5e4ca6dfdfa9b2204c9263d273d2b87b9776c13aa011e7476a0",
     "TargaSpritePool.tpol": "8e49fffae2ccaa9fe31ac9243a392c215ffc075da5a7d3cc72ff82f15b8d5d6b",
@@ -17,11 +17,11 @@
     "dat/FileT1.rft": "45cf91c31b89647aef1033b629ebb12b966a25324d37c05eb930ce012c76c670",
     "dat/GunBallMotherRecord.Dat": "c8e8fbf04614f6461edff2fec03ca685cb3680cb7ca0c62d66391564a622aa47",
     "dat/ItemMakeMotherRecord.Dat": "9dd5fba6b65158c96e3c1c0b08ee84d4631008143837b15052fa4898bc2f424c",
-    "dat/ItemMotherRecord.Dat": "05e79e618db5240af1f74b5d048b8c312fa18b0be926a134246f057e367a91fc",
-    "dat/MonsterMotherRecord.dat": "bb76cbdd85d6cacd6c0b105952c11af007b60f16f715a475b61e61af84179c1e",
+    "dat/ItemMotherRecord.Dat": "f48c64d49162986a34091637a15a1599c87402d15a0aa949e08cb05d28366b7e",
+    "dat/MonsterMotherRecord.dat": "7804fe1758d5253a3afe86d9cecd50e728071f6d2e0b781d0c1d71209b8e34bb",
     "dat/NPCMotherRecord.dat": "3f019562ec9c42473cf3c8f4e3e2c5fa1780b1cf9ed6234b03cf437c6397c88f",
     "dat/PlayerClassRecord.Dat": "d857762dbbada5584ed0325d31fa88dfc0a4f1cf91de2e9b4b897c820efde16d",
-    "dat/PlayerMotherRecord.Dat": "cbdb93ed10279ce2c431410470e3460fe18d67a7a64009dc74705cc5174df422",
+    "dat/PlayerMotherRecord.Dat": "224affdfff971ec58b9faa3243465052d24218269b5f8dcd510694870abb38fc",
     "dat/QuarterViewStraightGunBallInitTable.Dat": "83a4e478d10a649bd4fca8ce88fcc9c3764b17a5bebc546bda6c87ee0f286242",
     "dat/QuarterViewTable.Dat": "4f10022991b29fbd7b9de48d4a736be36ed8f136fdd70920b09176290fb5ac7f",
     "dat/QuestMotherRecord.Dat": "28c430c2b963e6afe014c8bf2d9502b65bd5d9b90ecc70df66085db56d135571",
@@ -275,7 +275,7 @@
     "sprite/MugResource6.NZspr": "5630493ea91b44047b564dc9435d149760e389d1e642c2155559d0c70931589c",
     "sprite/MugResource7.NZspr": "6928363d49a4523eb0f24b3fea19e14b46367f025cf4d1c88fc1c689b61c7f30",
     "sprite/MugResource8.NZspr": "42c7a00943dd2d8d3713e156efa5eb423a3183df3a6da2ab3a52d41886a2c29f",
-    "sprite/MugResource9.NZspr": "d2ceec52e44516dfc83c3f9e8211b30bee6e9aff3655809a5cd568968caece6d",
+    "sprite/MugResource9.NZspr": "c9c1490f61471afd8e68ebc606da2366c1c1b4ce4de7cd59af14202703af1047",
     "sprite/ResourcePageOne.NZspr": "cf403ed1ea023984bb527bf7a9695e1f06e19c207b12b5f9db1fdff899edaf43",
     "Tile/(1)Tile30x30.2TSF": "39627d30536cb2f7755b3cc8cd9c1fbeba53d8c3ba2da06ba79487e4aa3c1d30",
     "Tile/(10)Tile30x30.2TSF": "f56bf4e9ab6c5332e0bc23c39e822b345dd389a9f62608e1034d3f9caa563e24",
@@ -293,7 +293,7 @@
   },
   "release_files": {
     "Sprite.NZspr.Pool": {
-      "sha256": "9eb9f9bbb1f805aa27b3167040b1ee1e9173855fd9ad5917e4f355daff6f0f9e",
+      "sha256": "b8828c716780bb7306b2939803e87a47c0ae82c4e6ac35a5e0149ad45499eb03",
       "url": "https://github.com/blreo18/blreo-client/releases/download/1.0/Sprite.NZspr.Pool"
     }
   }
