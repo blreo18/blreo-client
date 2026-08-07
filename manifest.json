@@ -5,7 +5,7 @@
     "ddraw.dll": "85e0f7d530dfda134793a57cb3e76b0287dcc96892ee57162dd68f47283b03a9",
     "ddraw.ini": "77b7c809cd0e2bb74c4a23115b3bf303e0842875109ac77d19b8132203f22f69",
     "home.url": "1d71c7881524c3124fd351313c43e4f9f8d7519e0a60f509542ef99518a202d3",
-    "LegendOfMagic.exe": "472c5eb444ae1203619bee362cee560894cb51159f539e05e2faf142f8cec142",
+    "LegendOfMagic.exe": "3ec63a94764c060d350787b720da77ffe38463046cac3b2a7527614c428f8d1a",
     "LegendOfMagic.ini": "41ce163c830ba9adeb051c82376400f98011c00e97ac1e9d4070661139b77673",
     "ShortKeyV2.Dat": "00f45cd013d6c5e4ca6dfdfa9b2204c9263d273d2b87b9776c13aa011e7476a0",
     "TargaSpritePool.tpol": "8e49fffae2ccaa9fe31ac9243a392c215ffc075da5a7d3cc72ff82f15b8d5d6b",
@@ -21,7 +21,7 @@
     "dat/MonsterMotherRecord.dat": "663057643ae5211771fb355acee60f296ff8be6221e2bf3d86054ce00eec738b",
     "dat/NPCMotherRecord.dat": "3f019562ec9c42473cf3c8f4e3e2c5fa1780b1cf9ed6234b03cf437c6397c88f",
     "dat/PlayerClassRecord.Dat": "d857762dbbada5584ed0325d31fa88dfc0a4f1cf91de2e9b4b897c820efde16d",
-    "dat/PlayerMotherRecord.Dat": "a8513e8d2040868010e674f45fa81618f9a957e43f21992fe2a2b81efc0b91b3",
+    "dat/PlayerMotherRecord.Dat": "1ee8b225248e26c1f8ad17bbf406bacb9124eb61f2bc9f963816e7645eb180d8",
     "dat/QuarterViewStraightGunBallInitTable.Dat": "83a4e478d10a649bd4fca8ce88fcc9c3764b17a5bebc546bda6c87ee0f286242",
     "dat/QuarterViewTable.Dat": "4f10022991b29fbd7b9de48d4a736be36ed8f136fdd70920b09176290fb5ac7f",
     "dat/QuestMotherRecord.Dat": "28c430c2b963e6afe014c8bf2d9502b65bd5d9b90ecc70df66085db56d135571",
@@ -289,7 +289,7 @@
   },
   "release_files": {
     "Sprite.NZspr.Pool": {
-      "sha256": "9a87884767280ccdd3048e8ec4093c27aec08dba13c90d2476ffaeb46e72577b",
+      "sha256": "c0c0d58fb5036e94f224df74a49419f75c67f8332df888d393730b6da69a0c61",
       "url": "https://github.com/blreo18/blreo-client/releases/download/1.0/Sprite.NZspr.Pool"
     }
   }
